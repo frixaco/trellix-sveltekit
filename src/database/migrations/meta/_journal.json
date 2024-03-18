@@ -1,0 +1,27 @@
+{
+  "version": "5",
+  "dialect": "pg",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1710707621749,
+      "tag": "0000_kind_betty_ross",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1710745094787,
+      "tag": "0001_yellow_layla_miller",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "5",
+      "when": 1710752933504,
+      "tag": "0002_last_war_machine",
+      "breakpoints": true
+    }
+  ]
+}
